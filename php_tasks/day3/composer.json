@@ -1,0 +1,12 @@
+{
+    "name" : "php_tasks/day2",
+    "license" : "MIT",
+    "require": {
+       
+    },
+    "autoload": {
+        "classmap": ["classes"],
+        "files": ["config.php"]
+    }  
+    
+}
